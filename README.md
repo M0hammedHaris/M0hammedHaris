@@ -1,5 +1,11 @@
 ### Hi there 👋
+#### Welcome to my GitHub page
+- 🔭 I’m currently working on project-manager
+- 🌱 I’m currently learning Django, reactJS
+- 💬 Ask me about Fluttre, Frappe, Django.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-haris-k/), [Instagram](https://www.instagram.com/mohammed_haris___/)
 
+<img src='https://github-readme-stats.vercel.app/api?username=M0hammedHaris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 <!--
 **M0hammedHaris/M0hammedHaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
