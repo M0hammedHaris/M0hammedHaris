@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Welcome to my GitHub page
-- 🔭 I’m currently working on Web developement(React)
-- 🌱 I’m currently learning Django, reactJS
+- 🔭 I’m a freelancer and a contract worker
+- 🌱 I’m currently working on Frappe-ErpNext, Flutter, Web Builder.
 - 😄 I can code in Pyhton, Dart, Java, C, C++
 - 👯 I’m happy to collaborate with any project
 - 💬 Ask me about Fluttre, Frappe, Django.
