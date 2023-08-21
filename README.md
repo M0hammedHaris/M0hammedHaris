@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on Frappe-ErpNext, React.
 - 😄 I can code in Pyhton, JS, TSX, Java, SQL.
 - 👯 I’m happy to collaborate with any project
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-haris-k/), [Instagram](https://www.instagram.com/mohammed_haris___/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-haris-k/), [Instagram](https://www.instagram.com/griffin.d.drago/)
 - 💬 Mail me at: mohammedharis.k.01@gmail.com
 
 **Languages and Tools:**  
