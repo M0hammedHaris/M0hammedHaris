@@ -1,26 +1,21 @@
-### Hi there 👋
-#### Welcome to my GitHub page
-- 🔭 Developer @[Transform-Automations](https://github.com/Transform-Automations)-> AssureAI
-- 🌱 I’m currently working on Frappe-ErpNext, React.
-- 😄 I can code in Pyhton, JS, TSX, Java, SQL.
-- 👯 I’m happy to collaborate with any project
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-haris-k/), [Instagram](https://www.instagram.com/griffin.d.drago/)
-- 💬 Mail me at: mohammedharis.k.01@gmail.com
+👋 Hi there! I’m Mohammed Haris — a Software Engineer with 4+ years of experience building robust backend systems, REST APIs, and full stack features for product-based applications.
 
-**Languages and Tools:**  
+💻 I work mainly with Python, Java, SQL, Frappe, React.js, TypeScript, and Next.js — and I enjoy designing scalable modules, optimizing performance, and automating deployments with CI/CD and AWS.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png"></code>
+🚀 I’m passionate about improving developer workflows and infrastructure through automation. I love using AI coding tools (Copilot, Cursor) to deliver better code faster.
 
+🔧 Some highlights:
+- 🐞 **Debugging:** Strong debugging skills — refactored modules and fixed production issues, improving reliability
+- 🔄 **Frappe Framework:** Frappe custom docs and automations
+- ⚡ **Modern Stack:**  Modern JAMstack apps using Next.js, Clerk, and Vercel
+- 🔗 **CI/CD:** End-to-end pipelines using Jenkins and custom scripting.
 
+📚 **Languages & Tools:**
+- 💻 **Languages:** Python 🐍 • Java ☕ • JavaScript ⚡ • TypeScript 🟦 • SQL 🗄️
+- ⚙️ **Frameworks & Tools:** Frappe, React.js ⚛️, Next.js ➡️, Jenkins ⚙️, AWS ☁️ (Route53, S3), Nginx, Vercel 🚀, Clerk 🔒, Git 🔧
+- 🤖 **AI Tools:** Copilot, Cursor, Windsurf
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-haris-k) — always open to sharing ideas and collaborating on cool projects!
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hammedharis)
 -->
