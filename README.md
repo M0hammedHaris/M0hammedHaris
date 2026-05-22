@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Mohammed Haris](mh.machive.in)
+# 👋 Hi, I’m [Mohammed Haris](https://mh.machive.in)
 
 🚀 **Software Engineer | Backend | Full Stack | Automation | SDE II**
 
