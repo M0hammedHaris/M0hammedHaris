@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Mohammed Haris
+# 👋 Hi, I’m [Mohammed Haris](mh.machive.in)
 
 🚀 **Software Engineer | Backend | Full Stack | Automation | SDE II**
 
-I’m a software engineer with 4+ years of experience building robust backend systems, REST APIs, and full stack features for product-based applications. I love designing scalable modules, writing clean, maintainable code, and solving tricky bugs to keep systems stable and fast.
+I’m a software engineer with 5+ years of experience building robust backend systems, REST APIs, and full stack features for product-based applications. I love designing scalable modules, writing clean, maintainable code, and solving tricky bugs to keep systems stable and fast.
 
 ---
 
